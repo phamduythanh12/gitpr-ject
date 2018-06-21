@@ -1,0 +1,8 @@
+﻿<!DOCTYPE html>
+<head>
+   <title>html links</title>
+<>/head>
+<body>
+<h1>pham duy thanh</h1>
+<p>la nguoi quang nam</p>
+</body>
